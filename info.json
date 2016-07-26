@@ -1,0 +1,10 @@
+{
+    "name": "StartingSpotsPlus",
+    "version": "1.0.0",
+    "title": "Starting Spots Plus",
+    "author": "HardWind",
+    "homepage": "https://github.com/HardWind/StartingSpotsPlus",
+    "description": "Allows Players to generate a preset starting spot",
+    "factorio_version": "0.13",
+    "dependencies": [ "base >= 0.13.0" ]
+}

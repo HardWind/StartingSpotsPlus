@@ -30,6 +30,9 @@ luac.out
 *.so
 *.so.*
 *.dylib
+*.sln
+*.suo
+*.config
 
 # Executables
 *.exe
